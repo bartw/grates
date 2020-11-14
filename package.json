@@ -4,7 +4,14 @@
   "description": "GraphQL Testing",
   "scripts": {
     "start": "node src/index.js",
-    "test": "jest --watch"
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartw/grates.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bartw/grates/issues"
   },
   "author": "Bart Wijnants",
   "license": "MIT",

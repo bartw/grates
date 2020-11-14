@@ -127,13 +127,13 @@ Back to the terminal:
 
 ```
 npm install -D apollo-server-testing jest msw
-touch index.test.js
+touch src/index.test.js
 ```
 
 Add a test script to `package.json`:
 
 ```
-"test": "jest --watch"
+"test": "jest --watchAll"
 ```
 
 Immediatly run the test script from the terminal. It should become green when you're done:
