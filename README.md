@@ -1,6 +1,6 @@
 # Grates
 
-Grates, which is short for GRAphql TESting ofcourse, is a minimal setup for testing an [Apollo](https://www.apollographql.com/docs/apollo-server/) [GraphQL](https://graphql.org/) server that gets data from external api's using [apollo-server-testing](https://www.apollographql.com/docs/apollo-server/testing/testing/), [Jest](https://jestjs.io/) and [msw](https://mswjs.io/).
+Grates, which is short for GRAphql TESting of course, is a minimal setup for testing an [Apollo](https://www.apollographql.com/docs/apollo-server/) [GraphQL](https://graphql.org/) server that gets data from external api's using [apollo-server-testing](https://www.apollographql.com/docs/apollo-server/testing/testing/), [Jest](https://jestjs.io/) and [msw](https://mswjs.io/).
 
 ## Prerequisites
 
